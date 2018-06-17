@@ -1,4 +1,4 @@
 # didscraper
 Dissociative Identity Disorder Scrapper
-Retrieve proxies and user agents and store them to a file
+retrieve many proxies and user agents and store them into a file.
 
